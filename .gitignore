@@ -1,0 +1,18 @@
+# Binaries
+/concordd
+/bin/
+*.exe
+
+# Go
+vendor/
+*.test
+*.out
+
+# Local node data
+.concord/
+data/
+
+# Env / editor
+.env
+.idea/
+.vscode/
